@@ -9,7 +9,7 @@
 #complexity is polynomial
 
 #Temporal complexity is O(n^3*k^2) 
-def parantheses(X, T, A, x):
+def find(X, T, A, x):
 
 	#length of the input 
 	n = len(X)
